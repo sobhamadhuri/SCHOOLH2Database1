@@ -1,0 +1,13 @@
+Here, we observed how to handle http handle requests by using JDBC, H2 Database in Spring boot
+
+*we created REST API'S using spring boot, JDBC, H2 Database and SQL
+Tested RESTful API'S functionality using postman tool
+
+*GET, GET SPECIFIC TODO, POST, PUT AND DELETE methods are used those all are handled by controller class,
+repostiory we have to declare the methods for consistency and abstraction,
+In servic class we have written a business logic and
+model class we add the actual data representations.
+
+ide : https://learning.ccbp.in/ide/JSBCASP7ML
+
+DNS URL for viewing the desired outcome : https://sobhamadhurijjynjjsbcasp7ml.drops.nxtwave.tech
